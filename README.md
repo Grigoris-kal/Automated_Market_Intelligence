@@ -49,7 +49,7 @@ Schedule	Task scheduling
 smtplib/email	Sends reports via e-mail SMTP with attachments
 JSON	Configuration management	Handles all settings and configurations
 
-🚀 This multi-technology platform transform manual market research into automated intelligence !
+🚀 This multi-technology platform transforms manual market research into automated intelligence !
 
 ## 📊 **System Output**
 
