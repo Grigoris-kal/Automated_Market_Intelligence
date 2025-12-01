@@ -2,6 +2,8 @@
 
 A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, and generates comprehensive reports using multiple AI-powered scraping technologies.
 
+Most of the system's "moving parts" are configured via JSON files, eliminating the need to navigate through large amounts of code for business-related changes. This architecture enables users to easily make adjustments without coding expertise and minimizes the risk of breaking the system.
+
 🚀 Enhanced & Automated Market Intelligence System with Scrapy & Selenium
 
 📊 Multi-Automation Competitive Intelligence Platform
