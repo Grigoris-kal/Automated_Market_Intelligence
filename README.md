@@ -1,4 +1,4 @@
-output.jpg
+![output](https://github.com/Grigoris-kal/Automated-Market/blob/main/output.jpg)
 
 # Automated_Market_Intel
 A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, and generates comprehensive reports using multiple AI-powered scraping technologies.
