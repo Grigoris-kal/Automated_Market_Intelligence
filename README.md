@@ -1,8 +1,8 @@
 # Automated_Market_Intelligence
 
-A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, generates comprehensive reports and shares them, as attachments, automatically to your email using the power of Python libraries and multiple AI-powered scraping technologies, among others.
+A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, generates comprehensive reports and shares them as attachments, automatically to your email by leveraging the power of Python libraries and multiple AI technologies. 
 
-Most of the system's "moving parts" are configured via JSON files, eliminating the need to navigate through large amounts of code for business-related changes. This architecture enables users to easily make adjustments without coding expertise and minimizes the risk of breaking the system.
+In addition, most of the system's "moving parts" are configured via JSON files, eliminating the need to navigate through large amounts of code for business-related changes. This architecture enables users to easily make adjustments without coding expertise and minimizes the risk of breaking the system.
 
 🚀 Enhanced & Automated Market Intelligence System with Scrapy & Selenium
 
