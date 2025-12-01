@@ -1,8 +1,4 @@
-## 📊 **Live System Output**
 
-![Market Intelligence Dashboard](https://github.com/Grigoris-kal/Automated-Market/blob/main/output.jpg)
-
-*Figure: Automated market intelligence dashboard showing competitor tracking, sentiment analysis, and business activity monitoring*
 
 # Automated_Market_Intel
 A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, and generates comprehensive reports using multiple AI-powered scraping technologies.
