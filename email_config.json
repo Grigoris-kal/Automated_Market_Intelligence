@@ -1,0 +1,16 @@
+{
+  "primary_recipient": "matsolas86@gmail.com",
+  "cc_recipients": [],
+  "excel_metadata": {
+    "author": "Grigoris Kaldis",
+    "company": "Market Intelligence", 
+    "email": "matsolas86@gmail.com"
+  },
+  "smtp_settings": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "from_email": "matsolas86@gmail.com",
+    "username": "matsolas86@gmail.com",
+    "password": "ptzvdawqenbyjgei"
+  }
+}
