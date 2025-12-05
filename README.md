@@ -1,4 +1,5 @@
 # Automated_Market_Intelligence
+![Market Intelligence Dashboard](output.jpg)
 
 A fully automated market intelligence system that monitors competitors, detects sales activities, analyzes sentiment, generates comprehensive reports and shares them as attachments, automatically to your email by leveraging the power of Python libraries and AI. 
 
@@ -53,7 +54,7 @@ JSON	Configuration management	Handles all settings and configurations
 
 ## 📊 **System Output**
 
-![Market Intelligence Dashboard](output.jpg)
+
 
 *Automated competitive intelligence dashboard*
 
